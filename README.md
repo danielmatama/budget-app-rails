@@ -90,9 +90,9 @@
 
 ## 🚀 Live and Video Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://tashbudgetapp.onrender.com)
+- [Live Demo Link](https://budget-app-yk5a.onrender.com)
 
-- [Video Demo Link](https://drive.google.com/file/d/1X8Z0AgUmcM-dQSERuXzzlUrxztV6nqq8/view?usp=sharing)
+- [Video Demo Link](https://drive.google.com/file/d/12qkIQvSv3hNGSU7vo0nK3xgq_yzJGsPV/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ To get a local copy up and running, follow these steps.
 - Clone the project
 
 ```
-git clone https://github.com/tashisrael/Budget-app.git
+git clone https://github.com/danielmatama/Budget-app-rails.git
 
 cd Budget-app
 
