@@ -90,7 +90,7 @@
 
 ## 🚀 Live and Video Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://budget-app-yk5a.onrender.com)
+- [Live Demo Link](https://mysite-mqu7.onrender.com/)
 
 - [Video Demo Link](https://drive.google.com/file/d/12qkIQvSv3hNGSU7vo0nK3xgq_yzJGsPV/view?usp=sharing)
 
