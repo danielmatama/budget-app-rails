@@ -90,9 +90,9 @@
 
 ## 🚀 Live and Video Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://tashbudgetapp.onrender.com)
+- [Live Demo Link](https://mysite-mqu7.onrender.com/)
 
-- [Video Demo Link](https://drive.google.com/file/d/1X8Z0AgUmcM-dQSERuXzzlUrxztV6nqq8/view?usp=sharing)
+- [Video Demo Link](https://drive.google.com/file/d/12qkIQvSv3hNGSU7vo0nK3xgq_yzJGsPV/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ To get a local copy up and running, follow these steps.
 - Clone the project
 
 ```
-git clone https://github.com/tashisrael/Budget-app.git
+git clone https://github.com/danielmatama/Budget-app-rails.git
 
 cd Budget-app
 
@@ -181,9 +181,9 @@ rspec spec
 
 👤 **Tashobya Israel**
 
-- GitHub: [@githubhandle](https://github.com/tashisrael)
-- Twitter: [@twitterhandle](https://twitter.com/tashisrael)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/tashobya-israel-6a66b0181/l)
+- GitHub: [@githubhandle](https://github.com/danielmatama)
+- Twitter: [@twitterhandle](https://twitter.com/danmatama)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/danielmatama-mwebesa/l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
